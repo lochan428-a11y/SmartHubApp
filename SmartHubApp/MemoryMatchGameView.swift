@@ -1,3 +1,4 @@
+// 🎯 Game updated for improved user experience
 import SwiftUI
 
 struct Card: Identifiable {
