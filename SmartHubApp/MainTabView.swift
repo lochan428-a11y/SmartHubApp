@@ -1,3 +1,4 @@
+// 🧭 Linked core views: Contacts, Map, AI, Game, Resource
 import SwiftUI
 
 struct MainTabView: View {
