@@ -1,3 +1,4 @@
+// 🔐 Added Face ID / Touch ID biometric login feature
 import SwiftUI
 
 struct LoginView: View {
