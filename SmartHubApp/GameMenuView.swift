@@ -1,3 +1,4 @@
+// 🎮 Game Center entry with multiple mini-games
 import SwiftUI
 
 struct GameMenuView: View {
