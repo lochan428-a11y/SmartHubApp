@@ -1,3 +1,4 @@
+// 🤖 Connected to DeepSeek API for AI chat response
 import SwiftUI
 
 struct Message: Identifiable {
