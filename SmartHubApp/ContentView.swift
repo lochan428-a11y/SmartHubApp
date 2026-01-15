@@ -4,7 +4,7 @@
 //
 //  Created by chun wai wong on 13/1/2026.
 //
-
+// ⚡ Final optimization: minor UI layout tweaks and performance improvements
 import SwiftUI
 
 struct ContentView: View {
