@@ -1,3 +1,4 @@
+// 🗞️ Added announcement and useful resource links
 import SwiftUI
 
 struct Announcement: Identifiable {
